@@ -1,4 +1,3 @@
-This is your new Play 2.1 application
-=====================================
+# JavaScript routing support in Play 2 Scala code
 
-This file will be packaged with your application, when using `play dist`.
+An example application demonstrating interactions between client JavaScript and the back-end using generated routing objects.
